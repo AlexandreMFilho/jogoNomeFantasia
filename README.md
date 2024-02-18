@@ -1,16 +1,14 @@
 # jogoNomeFantasia
 
-# Ubuntu
-
-```
 ## Colocar no MakeFile:
-Clang 
-GCC
-mingW
+
+- Clang 
+- gcc
+- cc
 
 
-## Para compilar 
-```
+## Para compilar
+
+```sh
 gcc main.c 
-
 ```
