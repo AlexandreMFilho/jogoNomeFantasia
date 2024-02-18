@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include "source/libs/imports.h"
 
 int main(){
     printf("Hello World\n");
