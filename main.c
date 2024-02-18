@@ -1,6 +1,7 @@
-#include "source/libs/imports.h"
+#include "./source/libs/imports.h"
 
-int main(){
-    printf("Hello World\n");
-    return 0;
+int main() {
+    
+  printf("Hello World\n");
+  return 0;
 }
