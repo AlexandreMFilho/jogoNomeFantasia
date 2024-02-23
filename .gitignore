@@ -1,0 +1,7 @@
+*.out
+build
+CmakeLists.txt
+.vscode
+reference
+*.o
+```
